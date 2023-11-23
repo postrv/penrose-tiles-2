@@ -1,0 +1,14 @@
+[package]
+name = "penrose-tiles-2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.24.7"
+piston_window = "0.131.0"
+rand = "0.8.5"
+nalgebra = "0.32.3"
+resvg = "0.36.0"
+usvg = "0.36.0"
